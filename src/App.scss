@@ -1,0 +1,61 @@
+html{
+  background: #ddd;
+  height: 100%;
+  display: flex;
+  text-align: center;
+  margin-top: 5%;
+
+}
+
+body{
+  width: 100%;
+  margin: auto;
+}
+
+.TodoList{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.TodoList{
+background: #fff;
+font-size: 15px;
+max-width: 300px;
+margin: auto;
+margin-bottom: 20px;
+padding: 8px 16px;
+box-shadow: 0 5px 30px rgba(36, 32, 32, 0.2);
+}
+
+.button {
+  outline: none;
+  padding: 8px;
+  font-size: 15px;
+  border: 2px solid;
+  border-radius: 5px;
+  color: rgb(50, 38, 54);
+  margin-left: 5px;
+}
+
+#todo{
+  color: rgb(39, 4, 18);
+}
+
+#a{
+  border: 9px inset rgba(143,25,164,0.59);  
+  padding: 8px;
+}
+
+#b{
+  padding: 3px;
+  margin: 5px;
+  font-size: 1.5em;
+}
+
+#caja{
+
+  height: 50%;
+  width: 50%;
+  font-size: 1.5em;
+}
+
